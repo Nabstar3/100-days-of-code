@@ -6,6 +6,10 @@
 
 **Thoughts:** Looks like VIAplanners API is upto date and is the most verbose option I've seen so far. However, it looks like the API key is only available to primary developers. I also came across an outdated but more open API called Nickel. I'm not sure if Nickel still works but it looks like its available to use currently. It was last updated last year.
 
+**Link(s) to work**
+1. [VIAplanner Course API](https://docs.viaplanner.ca/course-api/)
+2. [Nickel API](https://docs.nikel.ml/docs)
+
 
 ### Day 1: June 27, Monday
 
